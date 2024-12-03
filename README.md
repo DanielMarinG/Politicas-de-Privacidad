@@ -2,7 +2,7 @@
 
 ## Politicas de Privacidad de DaniBot
 
-### Última actualización: 14/11/2024
+### Última actualización: 03/12/2024
 
 ### 1. Introducción
 
